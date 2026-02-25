@@ -145,13 +145,6 @@ pip install -r requirements.txt
 python src/passfort.py
 ```
 
----
-
-##  Application Preview
-
-| Main Dashboard              | Attack Simulator          | Password Generator        |
-| --------------------------- | ------------------------- | ------------------------- |
-| ![](assets/app_preview.png) | ![](assets/simulator.png) | ![](assets/generator.png) |
 
 ---
 
@@ -188,10 +181,13 @@ The platform functions both as a **security education tool** and a **password in
 
 ##  Team Mwmbers
 
-**Akshita Singh**
-**Fuzailur Rahman**
-**Yashila Verma**
-**Archana**
+* **Akshita Singh**
+
+* **Fuzailur Rahman**
+
+* **Yashila Verma**
+
+* **Archana**
 
 
 ---
