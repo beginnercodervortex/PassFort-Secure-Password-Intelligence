@@ -179,7 +179,7 @@ The platform functions both as a **security education tool** and a **password in
 
 ---
 
-##  Team Mwmbers
+##  Team Members
 
 * **Akshita Singh**
 
