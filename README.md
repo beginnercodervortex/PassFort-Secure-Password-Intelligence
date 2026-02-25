@@ -139,10 +139,10 @@ Breach verification uses the privacy-preserving **k-Anonymity model** provided b
 ##  Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PassFort.git
-cd PassFort
+git clone https://github.com/beginnercodervortex/PassFort-Secure-Password-Intelligence.git
+cd PassFort-Secure-Password-Intelligence
 pip install -r requirements.txt
-python src/passfort.py
+python passfort.py
 ```
 
 
